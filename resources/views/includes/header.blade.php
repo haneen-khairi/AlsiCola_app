@@ -96,11 +96,11 @@ Here is a sample of How Twitter card look like in standard HTML: --}}
 
 <body class="home page-template page-template-homepage page-template-homepage-php page page-id-5 font-alter">
     <!-- Page Loader -->
-{{-- <div class="loader-bg">
+<div class="loader-bg">
     <div class="loader">
-        <img src="{{ asset('img/alsi/cola.png') }}" alt="alsi cola, cola, saudi product" srcset="">
+        <img src="{{ asset('img/alsi/logo.png') }}" class="lazyload" alt="alsi cola, cola, saudi product" srcset="">
     </div>
-</div> --}}
+</div>
     <!-- desktop navbar -->
     <header class="fixed top-0 left-0 right-0 z-50 block site-header">
         <div class='container w-full h-full mx-auto px-6'>

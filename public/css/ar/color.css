@@ -597,7 +597,7 @@ input::-ms-input-placeholder {
 }
 
 .bgbgbb {
-    background: url(https://www.youtube.com/embed/fYJSeQIKU7o);
+    /* background: url(https://www.youtube.com/embed/fYJSeQIKU7o); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

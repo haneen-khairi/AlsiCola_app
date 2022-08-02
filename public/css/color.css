@@ -596,7 +596,7 @@ input::-ms-input-placeholder {
     transition: rotateit 1s ease-in-out; */
  }
  .bgbgbb{
-    background: url(https://www.youtube.com/embed/fYJSeQIKU7o);
+    /* background: url(https://www.youtube.com/embed/fYJSeQIKU7o); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
