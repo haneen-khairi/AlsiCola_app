@@ -1,0 +1,55 @@
+{
+    "short_name": "AlsiCola",
+    "name": "Alsi Cola Web Site",
+    "icons": [
+      {
+        "src": "/img/alsi/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/img/alsi/logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/alsi/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/en",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "shortcuts": [
+      {
+        "name": "AlsiCola",
+        "short_name": "AlsiCola",
+        "description": "AlsiCola",
+        "url": "/AlsiCola?source=pwa",
+        "icons": [{ "src": "/img/alsi/logo.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "AlsiCola",
+        "short_name": "AlsiCola",
+        "description": "AlsiCola",
+        "url": "/AlsiCola?source=pwa",
+        "icons": [{ "src": "/img/alsi/logo.png", "sizes": "192x192" }]
+      }
+    ],
+    "description": "Weather forecast information",
+    "screenshots": [
+      {
+        "src": "/img/alsi/logo.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      },
+      {
+        "src": "/img/alsi/logo.png",
+        "type": "image/jpg",
+        "sizes": "540x720"
+      }
+    ]
+  }
